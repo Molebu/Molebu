@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Molebu
-- 👀 I’m interested in Front-end Development
-- 🌱 I’m currently learning Python and MySQL
+- 👀 I’m interested in Front-end Development and UI/UX Design
+- 🌱 I’m currently learning UI/UX Design
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: mn.molatuli@gmail.com
 
